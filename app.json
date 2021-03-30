@@ -1,0 +1,12 @@
+{
+  "name": "twilio-rn",
+  "displayName": "twilio-rn",
+  "expo": {
+    "name": "twilio-rn",
+    "slug": "twilio-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
